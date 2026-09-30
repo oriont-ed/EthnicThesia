@@ -1,0 +1,16 @@
+{
+  "name": "ethnic-thesia",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["gestaltix", "particles", "visualizer", "audio"],
+  "author": "Whazorz",
+  "license": "MIT",
+  "description": "ethnic-thesia: A majestic particle visualizer featuring the Gestaltic picture-to-picture fluid evolution engine.",
+  "devDependencies": {
+    "electron": "^31.7.7",
+    "electron-packager": "^17.1.2"
+  }
+}
